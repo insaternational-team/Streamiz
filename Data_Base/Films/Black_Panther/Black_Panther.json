@@ -1,0 +1,9 @@
+{
+    '_id' : 1,
+    'Type' : "Film",
+    'Nom' : "Black Panther",
+    'Année' : 2018
+    'Background' : "Black_Panther_Background.jpg",
+    'Affiche' : "Black_Panther_Affiche.jpg",
+    'Synopsis' : "Black Panther suit T’Challa qui, après les événements de Captain America : Civil War, retourne chez lui, dans la nation africaine isolée et technologiquement avancée du Wakanda, pour prendre possession du trône. Cependant, quand un vieil ennemi réapparaît sur le radar, le courage de T’Challa en tant que roi et Black Panther est testé quand il est entraîné dans un conflit qui met le sort entier du Wakanda et du monde en danger.",
+}
